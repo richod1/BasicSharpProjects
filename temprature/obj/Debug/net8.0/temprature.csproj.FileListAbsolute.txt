@@ -1,0 +1,14 @@
+/home/degraft/Documents/BasicSharpProjects/temprature/obj/Debug/net8.0/temprature.GeneratedMSBuildEditorConfig.editorconfig
+/home/degraft/Documents/BasicSharpProjects/temprature/obj/Debug/net8.0/temprature.AssemblyInfoInputs.cache
+/home/degraft/Documents/BasicSharpProjects/temprature/obj/Debug/net8.0/temprature.AssemblyInfo.cs
+/home/degraft/Documents/BasicSharpProjects/temprature/obj/Debug/net8.0/temprature.csproj.CoreCompileInputs.cache
+/home/degraft/Documents/BasicSharpProjects/temprature/bin/Debug/net8.0/temprature
+/home/degraft/Documents/BasicSharpProjects/temprature/bin/Debug/net8.0/temprature.deps.json
+/home/degraft/Documents/BasicSharpProjects/temprature/bin/Debug/net8.0/temprature.runtimeconfig.json
+/home/degraft/Documents/BasicSharpProjects/temprature/bin/Debug/net8.0/temprature.dll
+/home/degraft/Documents/BasicSharpProjects/temprature/bin/Debug/net8.0/temprature.pdb
+/home/degraft/Documents/BasicSharpProjects/temprature/obj/Debug/net8.0/temprature.dll
+/home/degraft/Documents/BasicSharpProjects/temprature/obj/Debug/net8.0/refint/temprature.dll
+/home/degraft/Documents/BasicSharpProjects/temprature/obj/Debug/net8.0/temprature.pdb
+/home/degraft/Documents/BasicSharpProjects/temprature/obj/Debug/net8.0/temprature.genruntimeconfig.cache
+/home/degraft/Documents/BasicSharpProjects/temprature/obj/Debug/net8.0/ref/temprature.dll

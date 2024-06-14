@@ -1,0 +1,14 @@
+/home/degraft/Documents/BasicSharpProjects/todolist/obj/Debug/net8.0/todolist.GeneratedMSBuildEditorConfig.editorconfig
+/home/degraft/Documents/BasicSharpProjects/todolist/obj/Debug/net8.0/todolist.AssemblyInfoInputs.cache
+/home/degraft/Documents/BasicSharpProjects/todolist/obj/Debug/net8.0/todolist.AssemblyInfo.cs
+/home/degraft/Documents/BasicSharpProjects/todolist/obj/Debug/net8.0/todolist.csproj.CoreCompileInputs.cache
+/home/degraft/Documents/BasicSharpProjects/todolist/bin/Debug/net8.0/todolist
+/home/degraft/Documents/BasicSharpProjects/todolist/bin/Debug/net8.0/todolist.deps.json
+/home/degraft/Documents/BasicSharpProjects/todolist/bin/Debug/net8.0/todolist.runtimeconfig.json
+/home/degraft/Documents/BasicSharpProjects/todolist/bin/Debug/net8.0/todolist.dll
+/home/degraft/Documents/BasicSharpProjects/todolist/bin/Debug/net8.0/todolist.pdb
+/home/degraft/Documents/BasicSharpProjects/todolist/obj/Debug/net8.0/todolist.dll
+/home/degraft/Documents/BasicSharpProjects/todolist/obj/Debug/net8.0/refint/todolist.dll
+/home/degraft/Documents/BasicSharpProjects/todolist/obj/Debug/net8.0/todolist.pdb
+/home/degraft/Documents/BasicSharpProjects/todolist/obj/Debug/net8.0/todolist.genruntimeconfig.cache
+/home/degraft/Documents/BasicSharpProjects/todolist/obj/Debug/net8.0/ref/todolist.dll
